@@ -47,3 +47,6 @@ round(5.551115123125783e-17)
 int(5.551115123125783e-17)
 >>> 5
 ```
+
+#### Strings
+In Python, a string is any group of characters in between two quote marks. You can use single or double quotes, but they have to match.
