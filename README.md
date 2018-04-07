@@ -49,4 +49,4 @@ int(5.551115123125783e-17)
 ```
 
 #### Strings
-In Python, a string is any group of characters in between two quote marks. You can use single or double quotes, but they have to match.
+In Python, a string is any group of characters in between two quote marks. You can use single or double quotes, but they have to match. See the `strings.py` file for more info.
